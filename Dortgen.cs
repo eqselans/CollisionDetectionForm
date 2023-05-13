@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProjeDeneme6
+{
+    public class Dortgen : GeometrikCisimler
+    {// Kalıtım aldım ve Ciz metodunu cisme göre ezdim.
+        public override void Ciz(Panel panel1)
+        {
+            Graphics graph = panel1.CreateGraphics();
+            Pen kalem = new Pen(Color.Black, 2);
+
+            graph.DrawRectangle(kalem, 50, 50, 200, 100);
+        }
+    }
+}

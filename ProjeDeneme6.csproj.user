@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cember2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dikdortgen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dikdortgen2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DikdortgenPrizm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DikdortgenPrizm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dortgen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dortgen2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeometrikCisimler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kure2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nokta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nokta2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Silindir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Silindir2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yuzey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yuzey2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
